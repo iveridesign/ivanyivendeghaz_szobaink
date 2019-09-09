@@ -49,14 +49,14 @@ table {
 /* own style */
 
 html, body {
-	margin: 0px;
-	padding: 20px 20px 5px 20px;	
-	line-height: 1,8em;
-	border: 5px solid rgb(208, 243, 221);
+	margin: 0px;	
+	padding: 20px 20px 5px 20px;
+	line-height: 1,5em;
+	border-style: 2px solid rgb(208, 243, 221);
+	text-align: center;
 }
 
 h1, h2, p {
-	text-align: center;
 	font-family: Myriad Pro;
 	line-height: 1,5em;
 }
@@ -65,7 +65,6 @@ h1{
 	font-size: 40px;
 	word-spacing: 5px;
 	padding: 40px 10px 40px 10px;
-	text-align: center;
 }
 
 h2 {
@@ -73,7 +72,6 @@ h2 {
 }
 
 img {
-	text-align: left;
 	width: 100%;
 }
 
@@ -85,12 +83,10 @@ figure {
 }
 
 .képaláírás1 {
-	text-align: center;
 	width: 100%;
 }
 
 .képaláírás2 {
-	text-align: center;
 	width: 100%;
 }
 
@@ -110,18 +106,17 @@ table {
 
 table, th, td {
   	border-collapse: collapse;
-   	text-align: center;
- }
+}
 
 th, td {
-    text-align: center;
-	padding: 10px;
+  padding: 10px;
 }
 
 .szállásfoglalás_adatok {
+	position: relative;	
 	background-color: rgba(208, 243, 221);
-	text-align: center;
 	padding: 10px 50px 10px 50px;
+	text-align: center;
 }
 
 #logo {
@@ -130,10 +125,10 @@ th, td {
 
 .footer_menupontok {
 	background-color: rgba(247, 214, 185);
-	padding: 5px;
+	padding: 0px;
 	text-align: center;
-	font-size: 15px;
-	line-height: 12px;
+	font-size: 12px;
+	line-height: 1,2em;
 }
 
 footer {
