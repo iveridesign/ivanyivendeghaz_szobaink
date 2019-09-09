@@ -71,6 +71,11 @@ h2 {
 	font-size: 32px;
 }
 
+.menüsor {
+	text-align: left;
+	background-color: rgba( 208, 243, 221);
+}
+
 img {
 	width: 100%;
 }
@@ -121,6 +126,11 @@ th, td {
 
 #logo {
 	text-align: center;
+}
+
+#Ön_itt_áll {
+	text-align: left;
+	font-weight: bold;
 }
 
 .footer_menupontok {
