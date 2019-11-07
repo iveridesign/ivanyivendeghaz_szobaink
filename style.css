@@ -113,6 +113,26 @@ figure {
 	padding: 20px auto;
 }
 
+#heverös{
+	width: 25%;
+}
+
+
+#franciaágyas{
+	width: 25%;
+}
+
+#háromágyas{
+	width: 25%;
+}
+
+#földszinti{
+	width: 25%;
+}
+
+
+
+
 #kiemelt {
 	border: 2px solid rgba(247, 214, 185);
 	border-radius: 50%;
