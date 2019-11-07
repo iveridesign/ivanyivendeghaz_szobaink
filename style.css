@@ -69,6 +69,7 @@ h1{
 
 h2 {
 	font-size: 32px;
+	text-align: center;
 }
 
 h3 {
@@ -92,16 +93,20 @@ h3 {
 
 img {
 	width: 100%;
-	padding: 30px auto;
+	border-radius: 5%;
+	padding: 15px auto;
 }
 
 
 figure {
 	border-radius: 5%;
 	background-color: rgba( 208, 243, 221);
-	width: 50%;
+	width: 70%;
 	padding: 20px 10px 10px 10px;
+	margin: 40px auto;
+	justify-content: center;
 }
+
 
 .képaláírás1 {
 	width: 100%;
@@ -115,20 +120,29 @@ figure {
 
 #heverös{
 	width: 25%;
+	float: left;
+	display: inline-block;
 }
 
 
 #franciaágyas{
 	width: 25%;
+	float: left;
+	display: inline-block;
 }
 
 #háromágyas{
 	width: 25%;
+	float: left;
+	display: inline-block;
 }
 
 #földszinti{
 	width: 25%;
+	float: left;
+	display: inline-block;
 }
+
 
 
 
